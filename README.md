@@ -3,4 +3,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Hervinder Bhandal for the Lighthouse Labs Web Development Bootcamp
+This repository contains all of the notes taken by [Hervinder Bhandal](https://github.com/hbhandal80) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp
